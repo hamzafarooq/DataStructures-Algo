@@ -11,6 +11,7 @@
 
 * [all string](strings/all-string/README.md)
   * [415: Add Strings](strings/all-string/415-add-strings.md)
+  * [14. Longest Common Prefix](strings/all-string/14.-longest-common-prefix.md)
 
 ## SQL
 
