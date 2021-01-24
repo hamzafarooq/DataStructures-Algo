@@ -1,3 +1,7 @@
+---
+description: select * from all_of_this_world...
+---
+
 # SQL
 
 While SQL is simpler to understand, there are some parts which needs more attention:
