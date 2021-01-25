@@ -27,3 +27,7 @@
   * [571. Find Median Given Frequency of Numbers](sql/sql/571.-find-median-given-frequency-of-numbers.md)
   * [Lead and Lag: 180. Consecutive Numbers](sql/sql/lead-and-lag-180.-consecutive-numbers.md)
 
+## Greedy
+
+* [Untitled](greedy/untitled.md)
+
