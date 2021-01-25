@@ -13,6 +13,12 @@
   * [415: Add Strings](strings/all-string/415-add-strings.md)
   * [14. Longest Common Prefix](strings/all-string/14.-longest-common-prefix.md)
 
+## Binary Search
+
+* [Search related](binary-search/search-related/README.md)
+  * [162. Find Peak Element](binary-search/search-related/162.-find-peak-element.md)
+  * [Untitled](binary-search/search-related/untitled.md)
+
 ## SQL
 
 * [SQL](sql/sql/README.md)
