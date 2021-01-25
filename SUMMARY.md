@@ -6,6 +6,7 @@
 
 * [all array related questions](arrays/all-array-related-questions/README.md)
   * [1: Two Sum](arrays/all-array-related-questions/1-two-sum.md)
+  * [1099. Two Sum Less Than K](arrays/all-array-related-questions/1099.-two-sum-less-than-k.md)
 
 ## Strings
 
