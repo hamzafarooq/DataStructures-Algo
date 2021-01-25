@@ -19,6 +19,11 @@
   * [162. Find Peak Element](binary-search/search-related/162.-find-peak-element.md)
   * [Untitled](binary-search/search-related/untitled.md)
 
+## Greedy
+
+* [Greedy Algorithms](greedy/untitled/README.md)
+  * [1282. Group the People Given the Group Size They Belong To](greedy/untitled/1282.-group-the-people-given-the-group-size-they-belong-to.md)
+
 ## SQL
 
 * [SQL](sql/sql/README.md)
@@ -26,8 +31,4 @@
   * [569. Median Employee Salary](sql/sql/569.-median-employee-salary.md)
   * [571. Find Median Given Frequency of Numbers](sql/sql/571.-find-median-given-frequency-of-numbers.md)
   * [Lead and Lag: 180. Consecutive Numbers](sql/sql/lead-and-lag-180.-consecutive-numbers.md)
-
-## Greedy
-
-* [Untitled](greedy/untitled.md)
 
