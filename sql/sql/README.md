@@ -2,7 +2,7 @@
 description: select * from all_of_this_world...
 ---
 
-# SQL
+# Selected SQL Questions
 
 While SQL is simpler to understand, there are some parts which needs more attention:
 

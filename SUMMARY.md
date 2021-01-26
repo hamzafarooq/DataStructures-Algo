@@ -27,7 +27,7 @@
 
 ## SQL
 
-* [SQL](sql/sql/README.md)
+* [Selected SQL Questions](sql/sql/README.md)
   * [Consecutive Days: 1454. Active Users](sql/sql/1454.-active-users.md)
   * [569. Median Employee Salary](sql/sql/569.-median-employee-salary.md)
   * [571. Find Median Given Frequency of Numbers](sql/sql/571.-find-median-given-frequency-of-numbers.md)
@@ -35,4 +35,5 @@
   * [1322. Ads Performance](sql/sql/1322.-ads-performance.md)
   * [1341. Movie Rating](sql/sql/1341.-movie-rating.md)
   * [1517. Find Users With Valid E-Mails](sql/sql/1517.-find-users-with-valid-e-mails.md)
+  * [196. Delete Duplicate Emails](sql/sql/196.-delete-duplicate-emails.md)
 
