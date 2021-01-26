@@ -34,4 +34,5 @@
   * [Lead and Lag: 180. Consecutive Numbers](sql/sql/lead-and-lag-180.-consecutive-numbers.md)
   * [1322. Ads Performance](sql/sql/1322.-ads-performance.md)
   * [1341. Movie Rating](sql/sql/1341.-movie-rating.md)
+  * [1517. Find Users With Valid E-Mails](sql/sql/1517.-find-users-with-valid-e-mails.md)
 
