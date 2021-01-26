@@ -32,4 +32,6 @@
   * [569. Median Employee Salary](sql/sql/569.-median-employee-salary.md)
   * [571. Find Median Given Frequency of Numbers](sql/sql/571.-find-median-given-frequency-of-numbers.md)
   * [Lead and Lag: 180. Consecutive Numbers](sql/sql/lead-and-lag-180.-consecutive-numbers.md)
+  * [1322. Ads Performance](sql/sql/1322.-ads-performance.md)
+  * [1341. Movie Rating](sql/sql/1341.-movie-rating.md)
 
