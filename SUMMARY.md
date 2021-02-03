@@ -36,4 +36,5 @@
   * [1341. Movie Rating](sql/sql/1341.-movie-rating.md)
   * [1517. Find Users With Valid E-Mails](sql/sql/1517.-find-users-with-valid-e-mails.md)
   * [196. Delete Duplicate Emails](sql/sql/196.-delete-duplicate-emails.md)
+  * [579. Find Cumulative Salary of an Employee](sql/sql/579.-find-cumulative-salary-of-an-employee.md)
 
